@@ -14,3 +14,7 @@
 ##### Главная страница
 
 ![Главная страница](https://s3.amazonaws.com/assets.mockflow.com/app/wireframepro/company/C39312e4b1e51f43f2ecc2647168560a1/projects/D31e823859fd83c28e34a6f16e246da62/pages/09f73121230749a9817dfb75aa9fa42e/image/09f73121230749a9817dfb75aa9fa42e.png)
+
+##### Регистрация
+
+![Регистрация](https://s3.amazonaws.com/assets.mockflow.com/app/wireframepro/company/C39312e4b1e51f43f2ecc2647168560a1/projects/D31e823859fd83c28e34a6f16e246da62/pages/Df20e4f595074c3c5319544149c3cd90d/image/Df20e4f595074c3c5319544149c3cd90d.png)
